@@ -1,8 +1,14 @@
+//COMPONENTS
 import Landing from './main/Landing'
 import Login from './main/Login'
 import Register from './main/Register'
 import Dashboard from './main/Dashboard'
 import NotFound from './main/NotFound'
+
+//CSS
+import './main/static/CSS/App.css';
+
+//REACT
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
