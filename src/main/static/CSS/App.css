@@ -1,6 +1,6 @@
 .content-wrapper {
     min-height: calc(100vh - 115px);
   }
-  .footer-wrapper {
+.footer-wrapper {
     height: 50px;
-  }
+}
